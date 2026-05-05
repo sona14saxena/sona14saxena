@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @sona14saxena
-- 👀 I’m interested in coding and writing 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me through email -sona14saxena@gmail.com , @sona14saxena on Instragram , on LinkedIn https://www.linkedin.com/in/sona14saxena?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: she
-- ⚡ Fun fact: I have enjoy challenges
-
-<!---
-sona14saxena/sona14saxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Sonakshi
+- 👀 I’m interested in handling challenges 
+- 🌱 I’m currently learning python and working on machine learning projects 
+- 💞️ I’m looking to collaborate on new projects , dive into new ideas and learn something new daily
+- 📫 We can collaborate through mail-sona14saxena@gmail.com, LinkedIn:https://www.linkedin.com/in/sona14saxena/
+I really appreciate when people give me feedbaks whether positive or egative , I like improving myself daily, You too can contribute in this just let me know 😁
